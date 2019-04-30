@@ -1,5 +1,8 @@
-Technology Intelligence (TI) is an activity that enables companies to identify the technological opportunities and threats that could affect the future growth and survival of their business. It aims to capture and disseminate the technological information needed for strategic planning and decision making. As technology life cycles shorten and business become more globalized having effective TI capabilities is becoming increasingly important
+Ce projet a été réalisé dans le cadre d'un projet de veille technologique ou veille scientifique sur l'intelligence artificielle et les algorithmes de trading au sein de Centrale Lyon.La technique de veille consiste à s'informer de façon systématique sur les techniques les plus récentes et surtout sur leur mise à disposition commerciale. Cette activité met en œuvre des techniques d'acquisition, de stockage et d'analyse d'informations et leur distribution automatique aux différentes sections concernées de l'entreprise, à la manière d'une revue de presse.
 
-In the United States, Project Socrates identified the exploitation of technology as the most effective foundation for decision making for the complete set of functions within the private and public sectors that determine competitiveness.[2]
-
-The Centre for Technology Management has defined 'technology intelligence' as "the capture and delivery of technological information as part of the process whereby an organisation develops an awareness of technological threats and opportunities."[3] 
+Cette veille suit la plan suivant :
+__* Introduction__: Dans cette section, je définis l'intelligence artificielle, pourquoi l'IA est importante ? et quelles sont les méthodes et technologies de l'IA 
+__* AI: définitions, histoires et quelques concepts clés__
+__* Les algorithmes de Trading utilisant IA:__ définition des algorithmes, concept, avantages et inconvénients
+__* Exemples des algorithmes de Trading utilisant l'IA__:le Trading Haute Fréquence, les robots de trading,...
+__* Ressources utilisées pour cette veille technologique__: Bibliographies, Webographies,...
