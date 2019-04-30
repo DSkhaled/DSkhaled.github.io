@@ -1,3 +1,6 @@
+************************************************** Résumé des travaux de veille********************************************************
+***************************************************************************************************************************************
+
 Ce projet a été réalisé dans le cadre d'un projet de veille technologique ou veille scientifique sur l'intelligence artificielle et les algorithmes de trading au sein de Centrale Lyon.La technique de veille consiste à s'informer de façon systématique sur les techniques les plus récentes et surtout sur leur mise à disposition commerciale. Cette activité met en œuvre des techniques d'acquisition, de stockage et d'analyse d'informations et leur distribution automatique aux différentes sections concernées de l'entreprise, à la manière d'une revue de presse.
 
 Cette veille suit la plan suivant :
